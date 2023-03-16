@@ -13,4 +13,4 @@ Or [click here](https://m.bilibili.com/video/BV1Uv4y177sV?spm_id_from=444.41.lis
 
 
 ## Poster
-
+[Click here to download the pdf form of our post](Poster_Rotating_Elves.pdf)
