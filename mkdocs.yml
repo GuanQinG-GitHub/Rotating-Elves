@@ -15,6 +15,7 @@ theme:
    text: Playfair Display
 
 copyright: SharpShooters
+
 extra:
   analytics:
     provider: google
@@ -27,6 +28,3 @@ extra:
           data: 1
           note: >-
             Thanks for your feedback!
-
-extra_javascript:
-  - javascripts/feedback.js
