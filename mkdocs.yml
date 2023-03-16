@@ -1,7 +1,11 @@
 # site information
 site_name: ROTATING ELVES
 site_url: https://guanqing-github.github.io/Rotating-Elves/
+site_description: Website for project: Rotating Elves
 
+# navigation
+-nv:
+  -Project Materials: test.md
 # theme
 theme:
-    name: material
+  name: material
