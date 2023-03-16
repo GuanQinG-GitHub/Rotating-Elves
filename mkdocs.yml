@@ -4,4 +4,4 @@ site_url: https://guanqing-github.github.io/Rotating-Elves/
 
 # theme
 theme:
-    name: mkdocs
+    name: material
