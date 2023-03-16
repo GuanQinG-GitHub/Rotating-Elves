@@ -9,5 +9,6 @@ site_url: https://guanqing-github.github.io/Rotating-Elves/
 # theme
 theme:
   name: material
+  logo: Logo.png
   font:
    text: Playfair Display
