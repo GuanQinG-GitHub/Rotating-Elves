@@ -16,3 +16,5 @@ theme:
 
 copyright: SharpShooters
 
+extra_javascript:
+  - javascripts/feedback.js
