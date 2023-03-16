@@ -4,8 +4,9 @@ site_url: https://guanqing-github.github.io/Rotating-Elves/
 #site_description: Website for project: Rotating Elves
 
 # navigation
-#-nv:
- # -Project Materials: test.md
+-nv:
+  -Project Materials: index.md
+  
 # theme
 theme:
   name: material
