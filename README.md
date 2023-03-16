@@ -1,1 +1,1 @@
-This repository is held to save materials for the project: Project Elves
+This repository is held to share materials for the project: Project Elves
