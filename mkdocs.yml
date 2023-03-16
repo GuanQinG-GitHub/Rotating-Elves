@@ -9,3 +9,5 @@ site_url: https://guanqing-github.github.io/Rotating-Elves/
 # theme
 theme:
   name: material
+  font:
+   text: Noto Serif Display
