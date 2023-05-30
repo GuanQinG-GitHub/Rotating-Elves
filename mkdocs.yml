@@ -5,13 +5,13 @@ site_url: https://guanqing-github.github.io/SharpShooters/
 
 # navigation
 -nv:
-  -Rotating Elves: index.md
-  -Hand Exoskeleton: test.md
+  -Rotating Elves: Rotating Elves.md
+  -Hand Exoskeleton: Hand Exoskeleton.md
   
 # theme
 theme:
   name: material
-  logo: Logo.png
+  logo: logo.png
   font:
    text: Playfair Display
 
