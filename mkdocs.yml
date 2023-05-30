@@ -1,11 +1,12 @@
 # site information
-site_name: ROTATING ELVES
-site_url: https://guanqing-github.github.io/Rotating-Elves/
-#site_description: Website for project: Rotating Elves
+site_name: SharpShooters
+site_url: https://guanqing-github.github.io/SharpShooters/
+#site_description: Website for project: SharpShooters
 
 # navigation
 -nv:
-  -Project Materials: index.md
+  -Rotating Elves: index.md
+  -Hand Exoskeleton: index.md
   
 # theme
 theme:
