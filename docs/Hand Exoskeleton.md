@@ -4,10 +4,7 @@ This web page is maintained for sharing the project materials in Design and Manu
 # Project Materials
 
 ## Report
-[Click here to download the pdf form of our report](Rotating_Elves_Project_Report.pdf)
-
-## Poster
-[Click here to download the pdf form of our post](Poster_Rotating_Elves.pdf)
+[Click here to download the pdf form of our report](/Hand Exoskeleton/Report_Hand_Ekoskeleton_SharpShooters.pdf)
 
 
 ## Video Demo
