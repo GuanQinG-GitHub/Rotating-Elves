@@ -1,4 +1,4 @@
-# About
+# Rotating Elves
 This web page is held for sharing the project materials. Welcome to email us <202030101256@mail.scut.edu.cn>.
 
 # Project Materials
