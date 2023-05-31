@@ -4,7 +4,7 @@ This web page is held for sharing the project materials. Welcome to email us <20
 # Project Materials
 
 ## Report
-[Click here to download the pdf form of our report](Rotating_Elves_Project_Report.pdf)
+[Click here to download the pdf form of our report](Report_Rotating_Elves.pdf)
 
 ## Poster
 [Click here to download the pdf form of our post](Poster_Rotating_Elves.pdf)
