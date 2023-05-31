@@ -8,6 +8,7 @@ This web page is maintained for sharing the project materials in Design and Manu
 
 
 ## Video Demo
-<iframe src="//player.bilibili.com/player.html?aid=568567706&bvid=BV1Uv4y177sV&cid=1055932123&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=399365953&bvid=BV1eo4y1u7Z5&cid=1148102749&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
-Or [click here](https://m.bilibili.com/video/BV1Uv4y177sV?spm_id_from=444.41.list.card_archive.click&vd_source=512a29abd51aa6480c37da093c986db1) to watch the 1080P video in bilibili.
+Or [click here](https://www.bilibili.com/video/BV1eo4y1u7Z5/?share_source=copy_web&vd_source=6e25c0ee215551350286d8e6cebc616d) to watch the 1080P video in bilibili.
+
