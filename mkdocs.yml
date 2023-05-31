@@ -1,7 +1,7 @@
 # site information
 site_name: SharpShooters
 site_url: https://guanqing-github.github.io/SharpShooters/
-#site_description: Website for projects by SharpShooters
+site_description: Website recording projects by SharpShooters
 
 # navigation
 -nv:
