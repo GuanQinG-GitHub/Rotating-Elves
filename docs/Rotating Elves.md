@@ -1,13 +1,13 @@
 # Rotating Elves
-This web page is held for sharing the project materials. Welcome to email us <202030101256@mail.scut.edu.cn>.
+This web page is held for sharing the project materials in Embedded System Design and Introduction to Circuit. Welcome to email us <202030101256@mail.scut.edu.cn>.
 
 # Project Materials
 
 ## Report
-[Click here to download the pdf form of our report](Report_Rotating_Elves.pdf)
+[Click here to download the pdf form of our report](Rotating Elves\Report_Rotating_Elves.pdf)
 
 ## Poster
-[Click here to download the pdf form of our post](Poster_Rotating_Elves.pdf)
+[Click here to download the pdf form of our post](Rotating Elves\Poster_Rotating_Elves.pdf)
 
 
 ## Video Demo
