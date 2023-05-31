@@ -5,6 +5,7 @@ site_url: https://guanqing-github.github.io/SharpShooters/
 
 # navigation
 -nv:
+  -About: About.md
   -Rotating Elves: Rotating Elves.md
   -Hand Exoskeleton: Hand Exoskeleton.md
   
