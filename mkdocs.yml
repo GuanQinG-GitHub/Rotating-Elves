@@ -11,7 +11,7 @@ site_url: https://guanqing-github.github.io/SharpShooters/
 # theme
 theme:
   name: material
-  logo: logo.png
+  #logo: logo.png
   font:
    text: Playfair Display
 
