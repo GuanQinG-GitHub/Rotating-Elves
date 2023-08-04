@@ -14,4 +14,4 @@ You can click different projects in the left-side navigation bar.
 | `Yile Shen`   | <202030020205@mail.scut.edu.cn>  |
 | `Juncong Lan` | <202030020113@mail.scut.edu.cn>  |
 | `Yuli Yang`   | <202030322149@mail.scut.edu.cn> |
-| `Yuyang Xie`  | <202030102356@mail.scut.edu.cn> |
+| `Yuyang Xie`  | <xieyuyang20@qq.com> |
