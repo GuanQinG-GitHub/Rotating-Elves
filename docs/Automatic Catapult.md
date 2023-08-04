@@ -15,10 +15,10 @@ conclusion on the project. In the end, we also list all the references we cite, 
 this report, and the acknowledge of this project. All other related works are attached in the appendix.
 Key words: QFD method, omni-motion, Bluetooth remote, lever-spring catapult, turbine-based reloading.
 
-[Click here to download the pdf form of our report](Hand Exoskeleton/Report_Hand_Ekoskeleton_SharpShooters.pdf)
+[Click here to download the pdf form of our report](Automatic Catapult/Final Report_SharpShooter.pdf)
 
 ## Poster
-[Click here to download the pdf form of our report](Hand Exoskeleton/Report_Hand_Ekoskeleton_SharpShooters.pdf)
+[Click here to download the pdf form of our report](Automatic Catapult/Expo Poster by SharpShooter.pdf)
 
 ## Video Demo
 <iframe src="//player.bilibili.com/player.html?aid=399365953&bvid=BV1eo4y1u7Z5&cid=1148102749&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
