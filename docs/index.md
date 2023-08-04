@@ -6,12 +6,12 @@ You can click different projects in the left-side navigation bar.
 
 ## Team SharpShooters
 ### Team members
-| Name          | Email                          | 
-| :-----------: | :----------------------------------: |
-| `Xinlei Zhang`| <202030102356@mail.scut.edu.cn>  |
-| `Ze'an He`    | <202030020342@mail.scut.edu.cn> |
-| `Jinan Guo`   | <201930031052@mail.scut.edu.cn> |
-| `Yile Shen`   | <202030020205@mail.scut.edu.cn>  |
-| `Juncong Lan` | <202030020113@mail.scut.edu.cn>  |
-| `Yuli Yang`   | <202030322149@mail.scut.edu.cn> |
-| `Yuyang Xie`  | <xieyuyang20@qq.com> |
+| Name          | Email                           |Major                      | Department                                      |
+| :-----------: | :-----------------------------: | :------------------------:| :---------------------------------------------: |
+| `Xinlei Zhang`| <202030102356@mail.scut.edu.cn> | Intelligent Manufacturing | Shien-Ming Wu School of Intellignet Engineering |
+| `Ze'an He`    | <202030020342@mail.scut.edu.cn> | Intelligent Manufacturing | Shien-Ming Wu School of Intellignet Engineering |
+| `Jinan Guo`   | <201930031052@mail.scut.edu.cn> | Intelligent Manufacturing | Shien-Ming Wu School of Intellignet Engineering |
+| `Yile Shen`   | <202030020205@mail.scut.edu.cn> | Intelligent Manufacturing | Shien-Ming Wu School of Intellignet Engineering |
+| `Juncong Lan` | <202030020113@mail.scut.edu.cn> | Intelligent Manufacturing | Shien-Ming Wu School of Intellignet Engineering |
+| `Yuli Yang`   | <202030322149@mail.scut.edu.cn> | Intelligent Manufacturing | Shien-Ming Wu School of Intellignet Engineering |
+| `Yuyang Xie`  | <xieyuyang20@qq.com>            | Intelligent Manufacturing | Shien-Ming Wu School of Intellignet Engineering |
