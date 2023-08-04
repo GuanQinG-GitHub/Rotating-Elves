@@ -21,6 +21,4 @@ Key words: QFD method, omni-motion, Bluetooth remote, lever-spring catapult, tur
 [Click here to download the pdf form of our report](Automatic Catapult/Expo Poster by SharpShooter.pdf)
 
 ## Video Demo
-<iframe src="//player.bilibili.com/player.html?aid=399365953&bvid=BV1eo4y1u7Z5&cid=1148102749&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-
-Or [click here](https://www.bilibili.com/video/BV1eo4y1u7Z5/?share_source=copy_web&vd_source=6e25c0ee215551350286d8e6cebc616d) to watch the 1080P video in bilibili.
+Check the Video Demo produced by SharpShooter in the [Best Awarded Team](https://mp.weixin.qq.com/s/6qpO4l388TN4YJ9pF1TaCA) posted by the Wechat Public Account of Shien-Ming Wu School of Interlligent Engineering. (The last video in the post)
