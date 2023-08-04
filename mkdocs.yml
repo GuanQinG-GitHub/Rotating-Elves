@@ -8,6 +8,7 @@ site_description: Website recording projects by SharpShooters
   -Rotating Elves: Rotating Elves.md
   -Hand Exoskeleton: Hand Exoskeleton.md
   -Automated Assembly Line: Automated Line.md
+  -Automatic Catapule: Automatic Catapult.md
   
 # theme
 theme:
