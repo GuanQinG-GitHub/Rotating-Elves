@@ -4,10 +4,10 @@ This web page is held for sharing the project materials in Embedded System Desig
 # Project Materials
 
 ## Report
-[Click here to download the pdf form of our report](Rotating Elves\Report_Rotating_Elves.pdf)
+[Click here to download the pdf form of our report](Rotating Elves/Report_Rotating_Elves.pdf)
 
 ## Poster
-[Click here to download the pdf form of our post](Rotating Elves\Poster_Rotating_Elves.pdf)
+[Click here to download the pdf form of our post](Rotating Elves/Poster_Rotating_Elves.pdf)
 
 
 ## Video Demo
