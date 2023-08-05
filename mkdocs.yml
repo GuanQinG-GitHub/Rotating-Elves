@@ -6,7 +6,7 @@ site_description: Website recording projects by SharpShooters
 # navigation
 -nv:
   -Rotating Elves: Rotating Elves.md
-  -Hand Exoskeleton: Hand Exoskeleton.md
+  -Hand Exoskeleton: Hand_Exoskeleton.md
   -Automated Assembly Line: Automated Line.md
   -Automatic Catapule: Automatic Catapult.md
   
