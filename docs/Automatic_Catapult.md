@@ -1,4 +1,4 @@
-# Omni-motion, Bluetooth-remoto-control and Self-reloading Automatic Catapult
+# Omni-motion, Bluetooth-remote-control and Self-reloading Automatic Catapult
 This web page is maintained for sharing the project materials in Design and Manufacturing I, 2022 spring. Welcome to email us at <202030101256@mail.scut.edu.cn>.
 
 # Project Materials
