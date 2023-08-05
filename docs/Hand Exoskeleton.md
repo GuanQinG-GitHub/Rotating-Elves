@@ -4,7 +4,7 @@ This web page is maintained for sharing the project materials in Design and Manu
 # Project Materials
 
 ## Report
-[Click here to download the pdf form of our report](Hand Exoskeleton/Report_Hand_Ekoskeleton_SharpShooters.pdf)
+[Click here to download the pdf form of our report](Hand_Exoskeleton/Report_Hand_Ekoskeleton_SharpShooters.pdf)
 
 
 ## Video Demo
