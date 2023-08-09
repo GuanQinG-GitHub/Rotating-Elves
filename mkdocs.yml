@@ -4,7 +4,7 @@ site_url: https://guanqing-github.github.io/SharpShooters/
 site_description: Website recording projects by SharpShooters
 
 # navigation
--nv:
+nav:
   -Rotating Elves: Rotating_Elves.md
   -Hand Exoskeleton: Hand_Exoskeleton.md
   -Automated Assembly Line: Automated_Line.md
