@@ -1,4 +1,4 @@
-# Hand Exoskeleton
+# Tendon-Driven and Flex Sensor Based Gesture Sensing Hand Exoskeleton
 This web page is maintained for sharing the project materials in Design and Manufacturing II, 2023 fall. Welcome to email us <202030101256@mail.scut.edu.cn>.
 
 # Project Materials
