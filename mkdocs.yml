@@ -30,6 +30,11 @@ theme:
   font:
    text: Playfair Display
 
+   # [Extension]
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 # Copyright
 copyright: Copyright &copy; SharpShooters
 
