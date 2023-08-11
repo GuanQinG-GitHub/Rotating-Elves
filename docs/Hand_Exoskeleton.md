@@ -37,16 +37,16 @@ Or [click here](https://www.bilibili.com/video/BV1eo4y1u7Z5/?share_source=copy_w
 </figure>
 
 <figure markdown>
-  ![](Hand_Exoskeleton/Gesture 1.jpg){ width="500" }
+  ![](Hand_Exoskeleton/Gesture 1.png){ width="800" }
   <figcaption>Special Gesture With Hand Exoskeleton</figcaption>
 </figure>
 
 <figure markdown>
-  ![](Hand_Exoskeleton/Tracking1.png){ width="500" }
+  ![](Hand_Exoskeleton/Tracking2.png){ width="500" }
   <figcaption>Dynamical Tracking</figcaption>
 </figure>
 
 <figure markdown>
-  ![](Hand_Exoskeleton/Tracking2.png){ width="500" }
+  ![](Hand_Exoskeleton/Tracking1.png){ width="500" }
   <figcaption>Dynamical Tracking</figcaption>
 </figure>
