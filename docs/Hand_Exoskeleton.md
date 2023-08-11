@@ -15,3 +15,38 @@ This web page is maintained for sharing the project materials in Design and Manu
 Or [click here](https://www.bilibili.com/video/BV1eo4y1u7Z5/?share_source=copy_web&vd_source=6e25c0ee215551350286d8e6cebc616d) to watch the 1080P video in bilibili.
 
 ## Overview
+
+<figure markdown>
+  ![](/Hand_Exoskeleton/Overall_show.jpg){ width="500" }
+  <figcaption>Final Prototype</figcaption>
+</figure>
+
+<figure markdown>
+  ![](/Hand_Exoskeleton/Fake_hand.jpg){ width="500" }
+  <figcaption>Fake Mechanical Hand</figcaption>
+</figure>
+
+<figure markdown>
+  ![](/Hand_Exoskeleton/Anchor.jpg){ width="500" }
+  <figcaption>Bionic Anchors Attached to the Glove</figcaption>
+</figure>
+
+<figure markdown>
+  ![](/Hand_Exoskeleton/Flex2.jpg){ width="500" }
+  <figcaption>Flex Sensor Configuration</figcaption>
+</figure>
+
+<figure markdown>
+  ![](/Hand_Exoskeleton/Gesture 1.jpg){ width="500" }
+  <figcaption>Special Gesture With Hand Exoskeleton</figcaption>
+</figure>
+
+<figure markdown>
+  ![](/Hand_Exoskeleton/Tracking1.png){ width="500" }
+  <figcaption>Dynamical Tracking</figcaption>
+</figure>
+
+<figure markdown>
+  ![](/Hand_Exoskeleton/Tracking2.png){ width="500" }
+  <figcaption>Dynamical Tracking</figcaption>
+</figure>
