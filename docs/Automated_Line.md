@@ -1,6 +1,3 @@
-<figure markdown>
-  ![](Automated Line/logo.png){ width="600" }
-</figure>  
 
 # An Automated Assembly Line for the Luban Lock
 This web page is maintained for sharing the project materials in Smart Factory, 2023 spring. Welcome to email us <202030101256@mail.scut.edu.cn>.
@@ -12,23 +9,21 @@ This web page is maintained for sharing the project materials in Smart Factory, 
 
 ## Overview
 <figure markdown>
-  ![](Automated Line/Combinatorial_optimization_illustration.png){ width="600" }
+  ![](Automated Line/Combinatorial_optimization_illustration.png){ width="500" }
   <figcaption>Illustration for Combinatorial Optimization Problem</figcaption>
 </figure>  
 
 <figure markdown>
-  ![](Automated Line/Complete_model.png){ width="600" }
+  ![](Automated Line/complete_model.png){ width="600" }
   <figcaption>Simulation Model for the Assembly Line</figcaption>
 </figure>  
 
-<figure markdown>
-  ![](Automated Line/Complete model.png){ width="600" }
-  <figcaption>Simulation Model for the Assembly Line</figcaption>
-</figure>  
 
 <figure markdown>
   ![](Automated Line/Comparison.png){ width="600" }
   <figcaption>Results Comparison Between Three Types Scheduling Plan</figcaption>
 </figure>  
 
-
+<figure markdown>
+  ![](Automated Line/logo.png){ width="600" }
+</figure>  
