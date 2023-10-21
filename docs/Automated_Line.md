@@ -17,7 +17,7 @@ This web page is maintained for sharing the project materials in Smart Factory, 
 </figure>  
 
 <figure markdown>
-  ![](Automated Line/Complete model.png){ width="600" }
+  ![](Automated Line/Complete_model.png){ width="600" }
   <figcaption>Simulation Model for the Assembly Line</figcaption>
 </figure>  
 
