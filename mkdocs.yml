@@ -9,6 +9,7 @@ nav:
   - Hand Exoskeleton: Hand_Exoskeleton.md
   - Automated Assembly Line: Automated_Line.md
   - Automatic Catapule: Automatic_Catapult.md
+  - Controller Design: Controller_Design.md
   
 # theme
 theme:
