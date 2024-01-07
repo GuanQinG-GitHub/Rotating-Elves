@@ -1,5 +1,5 @@
 # Rotating Elves
-This web page is held for sharing the project materials in Embedded System Design and Introduction to Circuit, 2022 fall. Welcome to email us <202030101256@mail.scut.edu.cn>.
+This web page is held for sharing the project materials in Embedded System Design and Introduction to Circuit, 2022 fall. Welcome to email us at <202030101256@mail.scut.edu.cn>.
 
 # Project Materials
 
