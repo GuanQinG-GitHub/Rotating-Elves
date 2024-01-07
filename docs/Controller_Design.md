@@ -4,3 +4,5 @@ This web page is maintained for sharing the project materials in Modern Control 
 # Abstract
 
 # Project Materials
+## Project Report
+[Click here to download the pdf form of our report](Controller Design/Project_Report_for_Modern_Control_Theory_SharpShooters.pdf)
