@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://guanqing-github.github.io/SharpShooters/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guanqing-github.github.io/SharpShooters/Automated_Line/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guanqing-github.github.io/SharpShooters/Automatic_Catapult/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guanqing-github.github.io/SharpShooters/Controller_Design/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guanqing-github.github.io/SharpShooters/Hand_Exoskeleton/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guanqing-github.github.io/SharpShooters/Rotating_Elves/</loc>
+         <lastmod>2024-01-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
